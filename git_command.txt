@@ -9,6 +9,10 @@
    7 git status
    8 git commit -m "added texting file"
    9 git remote add origin https://github.com/riya-gandhi05/github-for-devops-workshop.git
-
+   10 git remove -v
+   set url token 
+    git push origin master
+   11 git clone for github to local
+   12 fork github to github
   13 git status
   14 git push origin master
