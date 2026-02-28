@@ -1,0 +1,14 @@
+ Id CommandLine
+  -- -----------
+   1 try { . "d:\Microsoft VS Code\072586267e\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}    
+   2  & 'd:\python.exe' 'c:\Users\RIYA\.vscode\extensions\ms-python.debugpy-2025.18.0-win32-x64\bundled\libs\debugpy\launcher' '51734' '--' '...
+   3 git init -y
+   4 git init
+   5 git status
+   6 git add texting.py
+   7 git status
+   8 git commit -m "added texting file"
+   9 git remote add origin https://github.com/riya-gandhi05/github-for-devops-workshop.git
+
+  13 git status
+  14 git push origin master
